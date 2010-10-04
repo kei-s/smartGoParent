@@ -1,5 +1,5 @@
 # smartGoParent
-JavaScript Utility for get parent URL
+JavaScript Utility for getting parent URL
 
 ## Code
 src/smartGoParent.js
