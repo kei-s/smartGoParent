@@ -7,7 +7,7 @@ src/smartGoParent.js
 ## Spec
 spec/SmartGoParentSpec.js
 
-use [Jasmine](http://pivotal.github.com/jasmine/)
+use [Jasmine](https://jasmine.github.io/)
 
 ## Usage
 getParent(url, count) returns parent URL like below.
